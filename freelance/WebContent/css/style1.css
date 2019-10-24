@@ -1,0 +1,42 @@
+h2 {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.table-bordered {
+  border: 1px solid #ddd !important;
+}
+
+table caption {
+	padding: .5em 0;
+}
+
+@media screen and (max-width: 767px) {
+  table caption {
+    display: none;
+  }
+}
+
+.p {
+  text-align: center;
+  padding-top: 140px;
+  font-size: 14px;
+}
+.button1 {
+  line-height: 2;
+  display: inline-block;
+  font-size: 1.5rem;
+  text-decoration: none;
+  
+  border-radius: 5px;
+  color: #fff;
+  padding: 20px;
+  background-color: #4b908f;
+  position: center;
+  
+}
+
+.select1 {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #28333f;
+}
